@@ -1,3 +1,11 @@
+# Website flow is set up with basic styling to support the mock ups that Junru has designed.
+
+The flow is as follows: 
+
+Create group: main.html ---> create_group.html ---> ---> show_join_url.html
+
+Join group: join_page.html ---> standby.html
+
 # Swing
 
 [![Travis build status](http://img.shields.io/travis/gajus/swing/master.svg?style=flat-square)](https://travis-ci.org/gajus/swing)
